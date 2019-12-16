@@ -10,7 +10,7 @@
 8,1958,2nd,Helmut Rahn,Rot-Weiss Essen,40.0,29.85
 9,1958,3rd,Just Fontaine,Stade de Reims,23.0,17.16
 10,1959,1st,Alfredo Di Stéfano,Real Madrid,80.0,54.79
-11,1959,2nd,Raymond Kopa,Real Madrid,42.0,28.77
+11,1959,2nd,Raymond Kopa,Stade de Reims,42.0,28.77
 12,1959,3rd,John Charles,Juventus,24.0,16.44
 13,1960,1st,Luis Suárez,Barcelona,54.0,43.55
 14,1960,2nd,Ferenc Puskás,Real Madrid,37.0,29.84
@@ -21,9 +21,9 @@
 19,1962,1st,Josef Masopust,Dukla Prague,65.0,43.05
 20,1962,2nd,Eusébio,Benfica,53.0,35.1
 21,1962,3rd,Karl-Heinz Schnellinger,Köln,33.0,21.85
-22,1963,1st,Lev Yashin,Dynamo Moscow,73.0,45.91
-23,1963,2nd,Gianni Rivera,Milan,53.0,33.33
-24,1963,3rd,Jimmy Greaves,Tottenham Hotspur,33.0,20.75
+22,1963,1st,Lev Yashin,Dynamo Moscow,73.0,41.01
+23,1963,2nd,Gianni Rivera,Milan,55.0,30.9
+24,1963,3rd,Jimmy Greaves,Tottenham Hotspur,50.0,28.09
 25,1964,1st,Denis Law,Manchester United,61.0,42.96
 26,1964,2nd,Luis Suárez,Internazionale,43.0,30.28
 27,1964,3rd,Amancio,Real Madrid,38.0,26.76
@@ -118,13 +118,13 @@
 116,1994,1st,Hristo Stoichkov,Barcelona,210.0,46.15
 117,1994,2nd,Roberto Baggio,Juventus,136.0,29.89
 118,1994,3rd,Paolo Maldini,Milan,109.0,23.96
-119,1995,1st,George Weah,Milan,144.0,45.14
+119,1995,1st,George Weah ,Milan,144.0,45.14
 120,1995,2nd,Jürgen Klinsmann,Bayern Munich,108.0,33.86
 121,1995,3rd,Jari Litmanen,Ajax,67.0,21.0
 122,1996,1st,Matthias Sammer,Borussia Dortmund,144.0,36.55
 123,1996,2nd,Ronaldo,Barcelona,143.0,36.29
 124,1996,3rd,Alan Shearer,Newcastle United,107.0,27.16
-125,1997,1st,Ronaldo,Internazionale,222.0,62.89
+125,1997,1st,Ronaldo ,Internazionale,222.0,62.89
 126,1997,2nd,Predrag Mijatović,Real Madrid,68.0,19.26
 127,1997,3rd,Zinedine Zidane,Juventus,63.0,17.85
 128,1998,1st,Zinedine Zidane,Juventus,244.0,64.55
@@ -139,7 +139,7 @@
 137,2001,1st,Michael Owen,Liverpool,176.0,40.93
 138,2001,2nd,Raúl,Real Madrid,140.0,32.56
 139,2001,3rd,Oliver Kahn,Bayern Munich,114.0,26.51
-140,2002,1st,Ronaldo,Real Madrid,169.0,39.86
+140,2002,1st,Ronaldo ,Real Madrid,169.0,39.86
 141,2002,2nd,Roberto Carlos,Real Madrid,145.0,34.2
 142,2002,3rd,Oliver Kahn,Bayern Munich,110.0,25.94
 143,2003,1st,Pavel Nedvěd,Juventus,190.0,43.08
@@ -151,7 +151,7 @@
 149,2005,1st,Ronaldinho,Barcelona,225.0,43.69
 150,2005,2nd,Frank Lampard,Chelsea,148.0,28.74
 151,2005,3rd,Steven Gerrard,Liverpool,142.0,27.57
-152,2006,1st,Fabio Cannavaro,Real Madrid,173.0,41.39
+152,2006,1st,Fabio Cannavaro ,Real Madrid,173.0,41.39
 153,2006,2nd,Gianluigi Buffon,Juventus,124.0,29.67
 154,2006,3rd,Thierry Henry,Arsenal,121.0,28.95
 155,2007,1st,Kaká,Milan,444.0,45.49
@@ -190,3 +190,6 @@
 188,2018,1st,Luka Modrić,Real Madrid,753.0,45.83
 189,2018,2nd,Cristiano Ronaldo,Juventus,476.0,28.97
 190,2018,3rd,Antoine Griezmann,Atlético Madrid,414.0,25.2
+191,2019,1st,Lionel Messi,Barcelona,686.0,37.26
+192,2019,2nd,Virgil van Dijk,Liverpool,679.0,36.88
+193,2019,3rd,Cristiano Ronaldo,Juventus,476.0,25.86

@@ -10,7 +10,7 @@
 8,1958,2nd,Helmut Rahn,Rot-Weiss Essen,40
 9,1958,3rd,Just Fontaine,Stade de Reims,23
 10,1959,1st,Alfredo Di Stéfano,Real Madrid,80
-11,1959,2nd,Raymond Kopa,Real Madrid,42
+11,1959,2nd,Raymond Kopa,Stade de Reims,42
 12,1959,3rd,John Charles,Juventus,24
 13,1960,1st,Luis Suárez,Barcelona,54
 14,1960,2nd,Ferenc Puskás,Real Madrid,37
@@ -22,8 +22,8 @@
 20,1962,2nd,Eusébio,Benfica,53
 21,1962,3rd,Karl-Heinz Schnellinger,Köln,33
 22,1963,1st,Lev Yashin,Dynamo Moscow,73
-23,1963,2nd,Gianni Rivera,Milan,53
-24,1963,3rd,Jimmy Greaves,Tottenham Hotspur,33
+23,1963,2nd,Gianni Rivera,Milan,55
+24,1963,3rd,Jimmy Greaves,Tottenham Hotspur,50
 25,1964,1st,Denis Law,Manchester United,61
 26,1964,2nd,Luis Suárez,Internazionale,43
 27,1964,3rd,Amancio,Real Madrid,38
@@ -118,13 +118,13 @@
 116,1994,1st,Hristo Stoichkov,Barcelona,210
 117,1994,2nd,Roberto Baggio,Juventus,136
 118,1994,3rd,Paolo Maldini,Milan,109
-119,1995,1st,George Weah[note 9],Milan,144
+119,1995,1st,George Weah [note 9],Milan,144
 120,1995,2nd,Jürgen Klinsmann,Bayern Munich,108
 121,1995,3rd,Jari Litmanen,Ajax,67
 122,1996,1st,Matthias Sammer,Borussia Dortmund,144
 123,1996,2nd,Ronaldo[note 10],Barcelona,143
 124,1996,3rd,Alan Shearer,Newcastle United,107
-125,1997,1st,Ronaldo[note 11],Internazionale,222
+125,1997,1st,Ronaldo [note 11],Internazionale,222
 126,1997,2nd,Predrag Mijatović,Real Madrid,68
 127,1997,3rd,Zinedine Zidane,Juventus,63
 128,1998,1st,Zinedine Zidane,Juventus,244
@@ -132,26 +132,26 @@
 130,1998,3rd,Ronaldo,Internazionale,66
 131,1999,1st,Rivaldo,Barcelona,219
 132,1999,2nd,David Beckham,Manchester United,154
-133,1999,3rd,Andriy Shevchenko,Milan,64
-134,2000,1st,Luís Figo[note 12],Real Madrid,197
+133,1999,3rd,Andriy Shevchenko[note 12],Milan,64
+134,2000,1st,Luís Figo[note 13],Real Madrid,197
 135,2000,2nd,Zinedine Zidane,Juventus,181
 136,2000,3rd,Andriy Shevchenko,Milan,85
 137,2001,1st,Michael Owen,Liverpool,176
 138,2001,2nd,Raúl,Real Madrid,140
 139,2001,3rd,Oliver Kahn,Bayern Munich,114
-140,2002,1st,Ronaldo[note 13],Real Madrid,169
+140,2002,1st,Ronaldo [note 14],Real Madrid,169
 141,2002,2nd,Roberto Carlos,Real Madrid,145
 142,2002,3rd,Oliver Kahn,Bayern Munich,110
 143,2003,1st,Pavel Nedvěd,Juventus,190
 144,2003,2nd,Thierry Henry,Arsenal,128
 145,2003,3rd,Paolo Maldini,Milan,123
 146,2004,1st,Andriy Shevchenko,Milan,175
-147,2004,2nd,Deco[note 14],Barcelona,139
+147,2004,2nd,Deco[note 15],Barcelona,139
 148,2004,3rd,Ronaldinho,Barcelona,133
 149,2005,1st,Ronaldinho,Barcelona,225
 150,2005,2nd,Frank Lampard,Chelsea,148
 151,2005,3rd,Steven Gerrard,Liverpool,142
-152,2006,1st,Fabio Cannavaro[note 15],Real Madrid,173
+152,2006,1st,Fabio Cannavaro [note 16],Real Madrid,173
 153,2006,2nd,Gianluigi Buffon,Juventus,124
 154,2006,3rd,Thierry Henry,Arsenal,121
 155,2007,1st,Kaká,Milan,444
@@ -161,7 +161,7 @@
 159,2008,2nd,Lionel Messi,Barcelona,281
 160,2008,3rd,Fernando Torres,Liverpool,179
 161,2009,1st,Lionel Messi,Barcelona,473
-162,2009,2nd,Cristiano Ronaldo[note 16],Real Madrid,233
+162,2009,2nd,Cristiano Ronaldo[note 17],Real Madrid,233
 163,2009,3rd,Xavi,Barcelona,170
 164,2010,1st,Lionel Messi,Barcelona,22.65%
 165,2010,2nd,Andrés Iniesta,Barcelona,17.36%
@@ -186,7 +186,10 @@
 184,2016,3rd,Antoine Griezmann,Atlético Madrid,198
 185,2017,1st,Cristiano Ronaldo,Real Madrid,946
 186,2017,2nd,Lionel Messi,Barcelona,670
-187,2017,3rd,Neymar[note 17],Paris Saint-Germain,361
+187,2017,3rd,Neymar[note 18],Paris Saint-Germain,361
 188,2018,1st,Luka Modrić,Real Madrid,753
-189,2018,2nd,Cristiano Ronaldo[note 18],Juventus,476
+189,2018,2nd,Cristiano Ronaldo[note 19],Juventus,476
 190,2018,3rd,Antoine Griezmann,Atlético Madrid,414
+191,2019,1st,Lionel Messi,Barcelona,686
+192,2019,2nd,Virgil van Dijk,Liverpool,679
+193,2019,3rd,Cristiano Ronaldo,Juventus,476
